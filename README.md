@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo ao meu mundo codi10👋
 
 <!--
 **cauaferreira074/cauaferreira074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
