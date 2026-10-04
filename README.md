@@ -96,8 +96,10 @@ voltado para uma empresa do setor têxtil.
 📋 Relatórios
 
 
-## 📊 GitHub Activity
+## 📋 Histórico de desenvolvimento
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caua_gaferreira&theme=tokyonight)
-      ↓
-🚚 Logística
+<!-- COMMITS:START -->
+| Data | Commit | Descrição |
+|:---:|:---|:---|
+| Carregando... | — | — |
+<!-- COMMITS:END -->
