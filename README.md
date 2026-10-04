@@ -39,7 +39,7 @@ Atualmente estou focado em evoluir meus conhecimentos em:
 - Desenvolvimento Web
 - APIs
 - Git e GitHub
-- Inglês
+
 
 > 🚀 **Meu objetivo é transformar conhecimento em projetos reais.**
 
@@ -72,7 +72,6 @@ Atualmente estou focado em evoluir meus conhecimentos em:
 | Projeto | Descrição | Tecnologias |
 |:---:|:---|:---:|
 | 🧵 **Agreste Têxtil** | Sistema de gerenciamento de pedidos, produção e logística | HTML • CSS • JS |
-| 🎮 **MiniGame** | Projeto de desenvolvimento de jogo | Game Design |
 | ♻️ **TrashLab** | Proposta de solução para gerenciamento de ecopontos | Figma • Web |
 | 📚 **BIA** | Projeto sobre percepção do consumidor e design de capas | Pesquisa |
 
