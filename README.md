@@ -96,10 +96,5 @@ voltado para uma empresa do setor têxtil.
 📋 Relatórios
 
 
-## 📋 Histórico de desenvolvimento
-
-<!-- COMMITS:START -->
-| Data | Commit | Descrição |
-|:---:|:---|:---|
 | Carregando... | — | — |
 <!-- COMMITS:END -->
