@@ -94,5 +94,10 @@ voltado para uma empresa do setor têxtil.
 🔎 Conferência
       ↓
 📋 Relatórios
+
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caua_gaferreira&theme=tokyonight)
       ↓
 🚚 Logística
